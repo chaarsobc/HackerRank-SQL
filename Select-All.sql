@@ -1,2 +1,2 @@
-SELECT *
-FROM CITY
+--MySQL compliant
+SELECT * FROM CITY
